@@ -1,5 +1,12 @@
 {
   "homepage": {
     "hello": "Halo saya Tiara Lestari Subaran"
+  },
+  "header": {
+    "home": "Beranda",
+    "about_me": "Tentang Saya",
+    "works": "Pekerjaan",
+    "services": "Servis",
+    "contact": "Kontak"
   }
 }

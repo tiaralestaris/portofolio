@@ -1,5 +1,12 @@
 {
   "homepage": {
     "hello": "Hello I am Tiara Lestari Subaran"
+  },
+  "header": {
+    "home": "Home",
+    "about_me": "About Me",
+    "works": "Works",
+    "services": "Services",
+    "contact": "Contact"
   }
 }
