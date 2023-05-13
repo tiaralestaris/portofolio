@@ -1,14 +1,14 @@
-import React from "react";
-import { useTranslation } from "react-i18next";
+import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 function Header() {
   const { t } = useTranslation();
   const navItems = [
-    { name: t('header.home'), link: "#home" },
-    { name: t('header.about_me'), link: "#about" },
-    { name: t('header.works'), link: "#works" },
-    { name: t('header.services'), link: "#services" },
-    { name: t('header.contact'), link: "#contact" },
+    { name: t('header.home'), link: '#home' },
+    { name: t('header.about_me'), link: '#about' },
+    { name: t('header.works'), link: '#works' },
+    { name: t('header.services'), link: '#services' },
+    { name: t('header.contact'), link: '#contact' },
   ];
 
   return (
